@@ -70,7 +70,7 @@ nav .container {
 
 .nav-links {
     display: flex;
-    gap: 32px;
+    gap: 24px;
     list-style: none;
 }
 
