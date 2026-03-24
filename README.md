@@ -9,6 +9,7 @@ Site web multipage professionnel pour MDTechs.
 - `conseil-materiel.html` - Page service Conseil matériel
 - `montage-depannage.html` - Page service Montage & dépannage
 - `configuration-reseau.html` - Page service Configuration réseau
+-  `configuration-reseau.html` - Page service Création Site Web
 - `contact.html` - Page de contact avec formulaire
 - `styles.css` - Feuille de styles globale
 - `script.js` - JavaScript partagé
